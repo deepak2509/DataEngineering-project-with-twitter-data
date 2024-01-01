@@ -1,4 +1,4 @@
 # DataEngineering-project-using-twitter-API
 
 
-This is a DataEngineering project that uses the twitter API as a dataset and extract the specified user tweets and information then transformed in a linear way and loaded the data into AWS S3 
+In this project the data is taken from the twitter API, I used python code to extract the data and then deplyoed my code on Apache Airflow which is on Amazon EC2 machine. At the end the data is stored in Amazon S3
